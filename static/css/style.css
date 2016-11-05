@@ -191,7 +191,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://avatars0.githubusercontent.com/u/21081491?v=3&s=460');
+    background-image:url('http://ww1.sinaimg.cn/large/93749ab3jw1f9hm9djx11j208707wgm3.jpg');
     background-size: 120%;
     background-position:center;
     border-radius:50%;
@@ -227,6 +227,10 @@ progress::-moz-progress-value {
     min-height: 100%;
     padding: 20px;
 
+}
+.example {
+    text-decoration: none;
+    color: gray;
 }
 
 .info-header:hover {
